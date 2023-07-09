@@ -1,0 +1,5287 @@
+{
+  "bike-sox": {
+    "title": "Bike Sox Ride Tracker",
+    "trackerBounds": {
+      "bottomLeft": [
+        41.828907148034794,
+        -87.65678500120602
+      ],
+      "topRight": [
+        41.8837507620531,
+        -87.61265655504397
+      ]
+    },
+    "color": "#808080",
+    "mapHeight": "500px",
+    "minZoomLevel": 12,
+    "runInfo1": "Bike to the ballpark and tailgate with the Bike Sox. Track the ride live right here on Tuesday Home Games @ 5:15pm.",
+    "runInfo2": "Visit ChicagoBikeSox.com for more information!",
+    "stops": [
+      {
+        "name": "Picasso Sculpture",
+        "subtitle": "Daley Plaza",
+        "coordinates": [
+          41.883709199403654,
+          -87.62982135050102
+        ],
+        "time": "5:15 - 5:30pm",
+        "markerClass": "label-left-1"
+      },
+      {
+        "name": "Washington and Michigan",
+        "coordinates": [
+          41.88348218923348,
+          -87.62420108674438
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "Michigan and Randolph",
+        "coordinates": [
+          41.88435283842546,
+          -87.62428691743558
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "Randolph and Field",
+        "coordinates": [
+          41.88435661248154,
+          -87.61741043014591
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "Field and Benton",
+        "coordinates": [
+          41.885507261972755,
+          -87.61741806732557
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "Benton Curve 1",
+        "coordinates": [
+          41.88551937084365,
+          -87.6163445864658
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "Benton Curve 2",
+        "coordinates": [
+          41.88555033510327,
+          -87.61626248558672
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "Benton Curve 3",
+        "coordinates": [
+          41.88562007678083,
+          -87.61623454640653
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "Benton and Bike Path",
+        "coordinates": [
+          41.885891433951855,
+          -87.6162416291132
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "Bike Path and LFT",
+        "coordinates": [
+          41.88608981618604,
+          -87.61329871745059
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.8846522359507,
+          -87.61304276063817
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.88399358627243,
+          -87.61303924994718
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.88339243181283,
+          -87.61316563482237
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.88294025539634,
+          -87.61376947367367
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.882638262922455,
+          -87.61569649316357
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.882261305365866,
+          -87.61647205804343
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.881523725942785,
+          -87.61699154018166
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.88078546552676,
+          -87.6170778007957
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.868985261318414,
+          -87.61646935956094
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.868919360757154,
+          -87.61640875443938
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86884330952397,
+          -87.61626457533917
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86844068384079,
+          -87.61644479921445
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86829752743123,
+          -87.6162105081766
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "Chicago Horizon",
+        "subtitle": "LFT Meeting Point",
+        "coordinates": [
+          41.86844068384079,
+          -87.61606032161389
+        ],
+        "time": "5:45pm",
+        "markerClass": "push-up-2x label-left-1"
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86829752743123,
+          -87.6162105081766
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86818568626321,
+          -87.61597020967623
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.868116599373344,
+          -87.61490366471385
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86826055754221,
+          -87.61471144232394
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86835713665478,
+          -87.6144676214406
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86839576825894,
+          -87.6141667360952
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86842281036799,
+          -87.61343527344519
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86835713665478,
+          -87.61308769899448
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.868218062686466,
+          -87.61283350275438
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.8679399138422,
+          -87.61254818044411
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.867607678914375,
+          -87.61244442687673
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86733725386129,
+          -87.61250667901716
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.866997786798876,
+          -87.61283910315605
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86593995410835,
+          -87.6128463259224
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.865597486376494,
+          -87.61337744902313
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86550719762976,
+          -87.61344817216307
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86501082780154,
+          -87.61351227614489
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.863452082199,
+          -87.61383893545863
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.86228975583219,
+          -87.613645359569
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.861992413135155,
+          -87.61366955655521
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.857928590965905,
+          -87.6133670942261
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.85747804041255,
+          -87.61347598066436
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.857126608816,
+          -87.61350017765056
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.85651385166956,
+          -87.61327030628163
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.85646879576534,
+          -87.61325820778853
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.855756908265505,
+          -87.6126774801197
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.85498193311817,
+          -87.61151602478203
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.85102580891546,
+          -87.60972544780394
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.84837624044674,
+          -87.61002791013144
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.846754001434086,
+          -87.6094955764381
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.84438365616512,
+          -87.60987062972421
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.843806828822046,
+          -87.60947137945189
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.84304072196726,
+          -87.60945928095879
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.83935426769999,
+          -87.60731784768302
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.839084254191874,
+          -87.60724613449447
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.83903622950524,
+          -87.60712365894851
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.83815977264325,
+          -87.6067304479852
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.83809927335436,
+          -87.60687219538083
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.83814504111716,
+          -87.60692338752442
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.838154576063644,
+          -87.60707184474082
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.83845206567988,
+          -87.60710256002695
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.83854360066821,
+          -87.60718702706387
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.83864085644982,
+          -87.60743530896026
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "End of 31st St Curve",
+        "coordinates": [
+          41.83865801921949,
+          -87.60793187275304
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "31st St Bike Lane",
+        "coordinates": [
+          41.83862941460407,
+          -87.60905809990878
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "31st and Shields",
+        "coordinates": [
+          41.83819513721285,
+          -87.63533775808922
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "35th and Shields",
+        "coordinates": [
+          41.830921379607695,
+          -87.63515674259338
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.830806563052754,
+          -87.63515463072937
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.830664108882196,
+          -87.63528879443923
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.830459174256156,
+          -87.63544979089107
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.829944335593865,
+          -87.63551687274602
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.82948947468984,
+          -87.6353659385724
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.82902961201783,
+          -87.63504394566915
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "LFT 1",
+        "coordinates": [
+          41.82883966778077,
+          -87.63480580508414
+        ],
+        "waypointOnly": true
+      },
+      {
+        "name": "Tailgate at the Racks",
+        "coordinates": [
+          41.828907148034794,
+          -87.6345944972411
+        ],
+        "subtitle": "between Gates 2 & 3",
+        "time": "6:00pm"
+      }
+    ]
+  },
+  "north-halsted-city-hall": {
+    "title": "North Halsted Bike Bus Tracker",
+    "runInfo1": "The North Halsted Bike Bus runs every Wednesday morning. Meet at 7:30 am at Elevate Coffee. Roll out at 7:45 am.",
+    "headerImageAlt": "The Halsted Bike Bus. Brought to you by CHICAGO, BIKE GRID NOW!",
+    "trackerBounds": {
+      "bottomLeft": [
+        41.883148,
+        -87.647396
+      ],
+      "topRight": [
+        41.943228,
+        -87.631674
+      ]
+    },
+    "color": "#FBE40F",
+    "mapHeight": "538px",
+    "stops": [
+      {
+        "name": "Elevate Coffee",
+        "subtitle": "3344 N Halsted St",
+        "time": "7:30 - 7:45",
+        "icon": "/images/coffee_stop.svg",
+        "coordinates": [
+          41.943228,
+          -87.649478
+        ]
+      },
+      {
+        "name": "Clark / Barry",
+        "subtitle": "",
+        "time": "7:47",
+        "coordinates": [
+          41.93819,
+          -87.649239
+        ]
+      },
+      {
+        "name": "Wellington",
+        "subtitle": "",
+        "time": "7:49",
+        "coordinates": [
+          41.936386,
+          -87.649141
+        ],
+        "markerClass": ""
+      },
+      {
+        "name": "Diversey",
+        "subtitle": "",
+        "time": "7:50",
+        "coordinates": [
+          41.932717,
+          -87.649009
+        ]
+      },
+      {
+        "name": "Fullerton",
+        "subtitle": "",
+        "time": "7:55",
+        "coordinates": [
+          41.925443,
+          -87.648751
+        ]
+      },
+      {
+        "name": "Armitage",
+        "subtitle": "",
+        "time": "7:58",
+        "coordinates": [
+          41.918175,
+          -87.648526
+        ]
+      },
+      {
+        "name": "Clybourn",
+        "subtitle": "",
+        "time": "8:02",
+        "coordinates": [
+          41.910008,
+          -87.648262
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.90643,
+          -87.643296
+        ]
+      },
+      {
+        "name": "Larrabee and Division",
+        "subtitle": "",
+        "time": "8:06",
+        "coordinates": [
+          41.903713,
+          -87.643215
+        ]
+      },
+      {
+        "name": "Chicago and Larrabee",
+        "subtitle": "",
+        "time": "8:11",
+        "coordinates": [
+          41.896474,
+          -87.642924
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.896491,
+          -87.641557
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.893479,
+          -87.64146
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.88931,
+          -87.638133
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.889113,
+          -87.638123
+        ]
+      },
+      {
+        "name": "Kinzie and Clinton",
+        "subtitle": "",
+        "time": "8:18",
+        "coordinates": [
+          41.889067,
+          -87.641354
+        ],
+        "markerClass": "label-left-1"
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.884089,
+          -87.641289
+        ]
+      },
+      {
+        "name": "Chicago French Market",
+        "subtitle": "",
+        "time": "8:20",
+        "coordinates": [
+          41.884089,
+          -87.641134
+        ],
+        "markerClass": "label-left-1"
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.884062,
+          -87.641286
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.88317,
+          -87.641266
+        ]
+      },
+      {
+        "name": "Daley Plaza",
+        "subtitle": "Rally for Safe Streets",
+        "time": "8:25",
+        "coordinates": [
+          41.883197,
+          -87.630172
+        ],
+        "markerClass": "label-right"
+      }
+    ]
+  },
+  "north-halsted": {
+    "title": "North Halsted Bike Bus Tracker",
+    "runInfo1": "The North Halsted Bike Bus runs every Wednesday morning. Meet at 7:30 am at Elevate Coffee. Roll out at 7:45 am.",
+    "headerImageAlt": "The Halsted Bike Bus. Brought to you by CHICAGO, BIKE GRID NOW!",
+    "trackerBounds": {
+      "bottomLeft": [
+        41.883148,
+        -87.647396
+      ],
+      "topRight": [
+        41.943228,
+        -87.631674
+      ]
+    },
+    "color": "#FBE40F",
+    "mapHeight": "538px",
+    "stops": [
+      {
+        "name": "Elevate Coffee",
+        "subtitle": "3344 N Halsted St",
+        "time": "7:30 - 7:45",
+        "icon": "/images/coffee_stop.svg",
+        "coordinates": [
+          41.943228,
+          -87.649478
+        ]
+      },
+      {
+        "name": "Clark / Barry",
+        "subtitle": "",
+        "time": "7:47",
+        "coordinates": [
+          41.93819,
+          -87.649239
+        ]
+      },
+      {
+        "name": "Wellington",
+        "subtitle": "",
+        "time": "7:49",
+        "coordinates": [
+          41.936386,
+          -87.649141
+        ],
+        "markerClass": ""
+      },
+      {
+        "name": "Diversey",
+        "subtitle": "",
+        "time": "7:50",
+        "coordinates": [
+          41.932717,
+          -87.649009
+        ]
+      },
+      {
+        "name": "Fullerton",
+        "subtitle": "",
+        "time": "7:55",
+        "coordinates": [
+          41.925443,
+          -87.648751
+        ]
+      },
+      {
+        "name": "Armitage",
+        "subtitle": "",
+        "time": "7:58",
+        "coordinates": [
+          41.918175,
+          -87.648526
+        ]
+      },
+      {
+        "name": "Clybourn",
+        "subtitle": "",
+        "time": "8:02",
+        "coordinates": [
+          41.910008,
+          -87.648262
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.90643,
+          -87.643296
+        ]
+      },
+      {
+        "name": "Larrabee and Division",
+        "subtitle": "",
+        "time": "8:06",
+        "coordinates": [
+          41.903713,
+          -87.643215
+        ]
+      },
+      {
+        "name": "Chicago and Larrabee",
+        "subtitle": "",
+        "time": "8:11",
+        "coordinates": [
+          41.896474,
+          -87.642924
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.896491,
+          -87.641557
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.893479,
+          -87.64146
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.88931,
+          -87.638133
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.889113,
+          -87.638123
+        ]
+      },
+      {
+        "name": "Kinzie and Clinton",
+        "subtitle": "",
+        "time": "8:22",
+        "coordinates": [
+          41.889067,
+          -87.641354
+        ],
+        "markerClass": "label-left-1"
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.884089,
+          -87.641289
+        ]
+      },
+      {
+        "name": "Chicago French Market",
+        "subtitle": "",
+        "time": "8:26",
+        "icon": "/images/coffee_stop.svg",
+        "coordinates": [
+          41.884089,
+          -87.641134
+        ],
+        "markerClass": "label-right push-down-4x"
+      }
+    ]
+  },
+  "active-trans-party": {
+    "title": "Active Trans Bike Bus Tracker",
+    "runInfo1": "Terminus at Revolution Brewing for the Active Transportation Alliance Annual Meeting.",
+    "headerImageAlt": "The Milwaukee Bike Bus. Brought to you by CHICAGO, BIKE GRID NOW!",
+    "trackerBounds": {
+      "bottomLeft": [
+        41.901729,
+        -87.708317
+      ],
+      "topRight": [
+        41.942078,
+        -87.656718
+      ]
+    },
+    "color": "#69C00C",
+    "mapHeight": "490px",
+    "stops": [
+      {
+        "name": "Goose Island Overlook Park",
+        "subtitle": "1111 N Elston Ave",
+        "time": "5:30 - 5:45",
+        "coordinates": [
+          41.901729,
+          -87.656718
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.901261,
+          -87.656678
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.904509,
+          -87.659379
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.907113,
+          -87.659952
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.9107,
+          -87.662138
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.918458,
+          -87.667924
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.923588,
+          -87.67522
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.925543,
+          -87.675465
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.925755,
+          -87.675718
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.925826,
+          -87.67843
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.942769,
+          -87.703216
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.942737,
+          -87.707711
+        ]
+      },
+      {
+        "name": "Revolution Brewing Brewery and Taproom",
+        "subtitle": "3340 N. Kedzie Ave.",
+        "time": "6:15",
+        "markerClass": "label-left-2",
+        "coordinates": [
+          41.942078,
+          -87.708317
+        ]
+      }
+    ]
+  },
+  "milwaukee-city-hall": {
+    "title": "Milwaukee Bike Bus Tracker",
+    "runInfo1": "The Milwaukee Bike Bus runs every Wednesday morning. Meet at 7:30 am at New Wave Coffee. Roll out at 7:45 am.",
+    "headerImageAlt": "The Milwaukee Bike Bus. Brought to you by CHICAGO, BIKE GRID NOW!",
+    "trackerBounds": {
+      "bottomLeft": [
+        41.883247,
+        -87.705137
+      ],
+      "topRight": [
+        41.928048,
+        -87.631674
+      ]
+    },
+    "color": "#84CBF1",
+    "mapHeight": "490px",
+    "minZoomLevel": 13,
+    "stops": [
+      {
+        "name": "New Wave Coffee",
+        "subtitle": "2557 N Milwaukee Ave",
+        "time": "7:30 - 7:45",
+        "icon": "/images/coffee_stop.svg",
+        "coordinates": [
+          41.928048,
+          -87.705137
+        ]
+      },
+      {
+        "name": "California & Milwaukee",
+        "subtitle": "in front of Cozy Corner",
+        "time": "7:50",
+        "coordinates": [
+          41.922904,
+          -87.697351
+        ]
+      },
+      {
+        "name": "Leavitt & Milwaukee",
+        "subtitle": "606 trail connection",
+        "time": "7:54",
+        "coordinates": [
+          41.913579,
+          -87.68241
+        ]
+      },
+      {
+        "name": "Damen & Milwaukee",
+        "time": "7:56",
+        "coordinates": [
+          41.910387,
+          -87.677465
+        ]
+      },
+      {
+        "name": "Division & Damen",
+        "time": "8:00",
+        "coordinates": [
+          41.903188,
+          -87.677251
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.899543,
+          -87.677148
+        ]
+      },
+      {
+        "name": "Augusta & Wolcott",
+        "time": "8:02",
+        "coordinates": [
+          41.899588,
+          -87.67471
+        ],
+        "markerClass": "label-left-1"
+      },
+      {
+        "name": "Noble & Augusta",
+        "time": "8:05",
+        "coordinates": [
+          41.899785,
+          -87.662501
+        ],
+        "markerClass": "label-right push-down-4x"
+      },
+      {
+        "name": "Hubbard & Noble",
+        "time": "8:10",
+        "coordinates": [
+          41.889941,
+          -87.662231
+        ],
+        "markerClass": "label-left-1"
+      },
+      {
+        "name": "Green & Hubbard",
+        "coordinates": [
+          41.890074,
+          -87.648751
+        ],
+        "markerClass": "label-left push-up-2x",
+        "waypointOnly": true
+      },
+      {
+        "name": "Kinzie & Green",
+        "subtitle": "",
+        "coordinates": [
+          41.889035,
+          -87.648728
+        ],
+        "markerClass": "push-down ",
+        "waypointOnly": true
+      },
+      {
+        "name": "Kinzie & Clinton",
+        "subtitle": "",
+        "time": "8:17",
+        "coordinates": [
+          41.889067,
+          -87.641354
+        ],
+        "markerClass": "label-right push-down-4x"
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.889067,
+          -87.641354
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.884089,
+          -87.641289
+        ]
+      },
+      {
+        "name": "Chicago French Market",
+        "subtitle": "",
+        "time": "8:20",
+        "coordinates": [
+          41.884089,
+          -87.641134
+        ],
+        "markerClass": "label-left-1"
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.884062,
+          -87.641286
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.88317,
+          -87.641266
+        ]
+      },
+      {
+        "name": "Daley Plaza",
+        "subtitle": "Rally for Safe Streets",
+        "time": "8:25",
+        "coordinates": [
+          41.883197,
+          -87.630172
+        ],
+        "markerClass": "label-right push-down-4x"
+      }
+    ]
+  },
+  "milwaukee": {
+    "title": "Milwaukee Bike Bus Tracker",
+    "runInfo1": "The Milwaukee Bike Bus runs every Wednesday morning. Meet at 7:30 am at New Wave Coffee. Roll out at 7:45 am.",
+    "headerImageAlt": "The Milwaukee Bike Bus. Brought to you by CHICAGO, BIKE GRID NOW!",
+    "trackerBounds": {
+      "bottomLeft": [
+        41.883247,
+        -87.705137
+      ],
+      "topRight": [
+        41.928048,
+        -87.631674
+      ]
+    },
+    "color": "#84CBF1",
+    "mapHeight": "490px",
+    "minZoomLevel": 13,
+    "stops": [
+      {
+        "name": "New Wave Coffee",
+        "subtitle": "2557 N Milwaukee Ave",
+        "time": "7:30 - 7:45",
+        "icon": "/images/coffee_stop.svg",
+        "coordinates": [
+          41.928048,
+          -87.705137
+        ]
+      },
+      {
+        "name": "California & Milwaukee",
+        "subtitle": "in front of Cozy Corner",
+        "time": "7:50",
+        "coordinates": [
+          41.922904,
+          -87.697351
+        ]
+      },
+      {
+        "name": "Leavitt & Milwaukee",
+        "subtitle": "606 trail connection",
+        "time": "7:54",
+        "coordinates": [
+          41.913579,
+          -87.68241
+        ]
+      },
+      {
+        "name": "Damen & Milwaukee",
+        "time": "7:56",
+        "coordinates": [
+          41.910387,
+          -87.677465
+        ]
+      },
+      {
+        "name": "Division & Damen",
+        "time": "8:00",
+        "coordinates": [
+          41.903188,
+          -87.677251
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.899543,
+          -87.677148
+        ]
+      },
+      {
+        "name": "Augusta & Wolcott",
+        "time": "8:02",
+        "coordinates": [
+          41.899588,
+          -87.67471
+        ],
+        "markerClass": "label-left-1"
+      },
+      {
+        "name": "Noble & Augusta",
+        "time": "8:05",
+        "coordinates": [
+          41.899785,
+          -87.662501
+        ],
+        "markerClass": "label-right push-down-4x"
+      },
+      {
+        "name": "Hubbard & Noble",
+        "time": "8:10",
+        "coordinates": [
+          41.889941,
+          -87.662231
+        ],
+        "markerClass": "label-left-1"
+      },
+      {
+        "name": "Green & Hubbard",
+        "coordinates": [
+          41.890074,
+          -87.648751
+        ],
+        "markerClass": "label-left push-up-2x",
+        "waypointOnly": true
+      },
+      {
+        "name": "Kinzie & Green",
+        "subtitle": "",
+        "coordinates": [
+          41.889035,
+          -87.648728
+        ],
+        "markerClass": "push-down ",
+        "waypointOnly": true
+      },
+      {
+        "name": "Kinzie & Clinton",
+        "subtitle": "",
+        "time": "8:17",
+        "coordinates": [
+          41.889067,
+          -87.641354
+        ],
+        "markerClass": "label-right push-down-4x"
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.889067,
+          -87.641354
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.884089,
+          -87.641289
+        ]
+      },
+      {
+        "name": "Chicago French Market",
+        "subtitle": "",
+        "time": "8:20",
+        "icon": "/images/coffee_stop.svg",
+        "coordinates": [
+          41.884089,
+          -87.641134
+        ],
+        "markerClass": "label-right push-down-4x"
+      }
+    ]
+  },
+  "south-halsted-city-hall": {
+    "title": "South Halsted Bike Bus Tracker",
+    "runInfo1": "The South Halsted Bike Bus runs every Wednesday morning. Meet at 7:40 am at Cafe Jumping Bean. Roll out at 7:55 am.",
+    "trackerBounds": {
+      "bottomLeft": [
+        41.84910870546306, -87.66806464877914
+      ],
+      "topRight": [
+        41.88880042803343, -87.63501983645125
+      ]
+    },
+    "mapHeight": "378px",
+    "color": "#D78AB2",
+    "stops": [
+      {
+        "name": "Cafe Jumping Bean",
+        "subtitle": "1439 S 18th St.",
+        "time": "7:40 - 7:55",
+        "icon": "/images/coffee_stop.svg",
+        "coordinates": [
+          41.857856,
+          -87.662854
+        ],
+        "markerClass": "rotate-35"
+      },
+      {
+        "name": "18th St. & Carpenter",
+        "subtitle": "",
+        "time": "7:59",
+        "coordinates": [
+          41.857998,
+          -87.653289
+        ],
+        "markerClass": "rotate-35"
+      },
+      {
+        "name": "Halsted & 18th St.",
+        "subtitle": "",
+        "time": "8:02",
+        "coordinates": [
+          41.858091,
+          -87.646654
+        ],
+        "markerClass": "rotate-35"
+      },
+      {
+        "name": "14th Pl. & Halsted",
+        "subtitle": "",
+        "time": "8:04",
+        "coordinates": [
+          41.862345,
+          -87.646772
+        ]
+      },
+      {
+        "name": "Roosevelt & Halsted",
+        "subtitle": "",
+        "time": "8:07",
+        "coordinates": [
+          41.867208,
+          -87.646918
+        ]
+      },
+      {
+        "name": "Harrison & Halsted",
+        "subtitle": "",
+        "time": "8:10",
+        "coordinates": [
+          41.874365,
+          -87.647124
+        ]
+      },
+      {
+        "name": "Jackson & Halsted",
+        "subtitle": "",
+        "time": "8:13",
+        "coordinates": [
+          41.877942,
+          -87.647224
+        ]
+      },
+      {
+        "name": "Washington & Halsted",
+        "subtitle": "",
+        "time": "8:17",
+        "coordinates": [
+          41.883148,
+          -87.647396
+        ],
+        "markerClass": "label-left-1"
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.885665,
+          -87.647467
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.885712,
+          -87.641305
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.884089,
+          -87.641305
+        ]
+      },
+      {
+        "name": "French Market",
+        "subtitle": "",
+        "time": "8:20",
+        "coordinates": [
+          41.884089,
+          -87.641134
+        ],
+        "markerClass": "label-right rotate-minus-25"
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.884062,
+          -87.641286
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.88317,
+          -87.641266
+        ]
+      },
+      {
+        "name": "Daley Plaza",
+        "subtitle": "Rally for Safe Streets",
+        "time": "8:25",
+        "coordinates": [
+          41.883197,
+          -87.630172
+        ],
+        "markerClass": "label-right"
+      }
+    ]
+  },
+  "south-halsted": {
+    "title": "South Halsted Bike Bus Tracker",
+    "runInfo1": "The South Halsted Bike Bus runs every Wednesday morning. Meet at 7:40 am at Cafe Jumping Bean. Roll out at 7:55 am.",
+    "trackerBounds": {
+      "bottomLeft": [
+        41.85160214757895, -87.66806464877914
+      ],
+      "topRight": [
+        41.88675572413094, -87.63768058757375
+      ]
+    },
+    "mapHeight": "378px",
+    "color": "#D78AB2",
+    "stops": [
+      {
+        "name": "Cafe Jumping Bean",
+        "subtitle": "1439 S 18th St.",
+        "time": "7:40 - 7:55",
+        "icon": "/images/coffee_stop.svg",
+        "coordinates": [
+          41.857856,
+          -87.662854
+        ],
+        "markerClass": "rotate-35"
+      },
+      {
+        "name": "18th St. & Carpenter",
+        "subtitle": "",
+        "time": "7:59",
+        "coordinates": [
+          41.857998,
+          -87.653289
+        ],
+        "markerClass": "rotate-35"
+      },
+      {
+        "name": "Halsted & 18th St.",
+        "subtitle": "",
+        "time": "8:02",
+        "coordinates": [
+          41.858091,
+          -87.646654
+        ],
+        "markerClass": "rotate-35"
+      },
+      {
+        "name": "14th Pl. & Halsted",
+        "subtitle": "",
+        "time": "8:04",
+        "coordinates": [
+          41.862345,
+          -87.646772
+        ]
+      },
+      {
+        "name": "Roosevelt & Halsted",
+        "subtitle": "",
+        "time": "8:07",
+        "coordinates": [
+          41.867208,
+          -87.646918
+        ]
+      },
+      {
+        "name": "Harrison & Halsted",
+        "subtitle": "",
+        "time": "8:10",
+        "coordinates": [
+          41.874365,
+          -87.647124
+        ]
+      },
+      {
+        "name": "Jackson & Halsted",
+        "subtitle": "",
+        "time": "8:13",
+        "coordinates": [
+          41.877942,
+          -87.647224
+        ]
+      },
+      {
+        "name": "Washington & Halsted",
+        "subtitle": "",
+        "time": "8:17",
+        "coordinates": [
+          41.883148,
+          -87.647396
+        ],
+        "markerClass": "label-left-1"
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.885665,
+          -87.647467
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.885712,
+          -87.641305
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.884089,
+          -87.641305
+        ]
+      },
+      {
+        "name": "Chicago French Market",
+        "subtitle": "",
+        "time": "8:20",
+        "icon": "/images/coffee_stop.svg",
+        "coordinates": [
+          41.884089,
+          -87.641134
+        ],
+        "markerClass": "label-right push-down-4x"
+      }
+    ]
+  },
+  "bergen": {
+    "title": "Bergen Bike Train Tracker",
+    "runInfo1": "Track the bike train live on the map above beginning at 7:00am every Wednesday morning.",
+    "trackerBounds": {
+      "bottomLeft": [
+        40.685828,
+        -73.91115
+      ],
+      "topRight": [
+        40.667982,
+        -73.991364
+      ]
+    },
+    "mapHeight": "250px",
+    "color": "#EFB143",
+    "globalMarkerClass": "rotate-65",
+    "stops": [
+      {
+        "name": "Rockaway Av",
+        "subtitle": "",
+        "time": "7:00 - 7:15",
+        "coordinates": [
+          40.673982,
+          -73.91115
+        ]
+      },
+      {
+        "name": "Howard Av",
+        "subtitle": "",
+        "time": "7:20",
+        "coordinates": [
+          40.674435,
+          -73.91946
+        ]
+      },
+      {
+        "name": "Rochester Av",
+        "subtitle": "",
+        "time": "7:25",
+        "coordinates": [
+          40.674895,
+          -73.927767
+        ]
+      },
+      {
+        "name": "Brooklyn Ave",
+        "subtitle": "",
+        "time": "7:30",
+        "coordinates": [
+          40.675787,
+          -73.94439
+        ]
+      },
+      {
+        "name": "Classon Av",
+        "subtitle": "",
+        "time": "7:35",
+        "coordinates": [
+          40.677523,
+          -73.959131
+        ]
+      },
+      {
+        "name": "Grand Av",
+        "subtitle": "",
+        "time": "7:40",
+        "coordinates": [
+          40.678175,
+          -73.962225
+        ]
+      },
+      {
+        "name": "Vanderbilt Av",
+        "subtitle": "",
+        "time": "7:45",
+        "coordinates": [
+          40.67943,
+          -73.968222
+        ]
+      },
+      {
+        "name": "Fifth Av",
+        "subtitle": "",
+        "time": "7:50",
+        "coordinates": [
+          40.681495,
+          -73.977019
+        ]
+      },
+      {
+        "name": "Bond St",
+        "subtitle": "",
+        "time": "7:55",
+        "coordinates": [
+          40.68502,
+          -73.986126
+        ]
+      },
+      {
+        "name": "Court St",
+        "subtitle": "",
+        "time": "8:00",
+        "coordinates": [
+          40.687828,
+          -73.993264
+        ]
+      }
+    ]
+  },
+  "fmsc": {
+    "title": "Friday Morning Swim Club",
+    "runInfo1": "Join Bike Grid Now for a Bike Bus to Friday Morning Swim Club at Montrose Point!",
+    "runInfo2": "Rolling from the NE corner of Horner Park at 6:30am.",
+    "headerImageAlt": "Brought to you by Bike Grid Now!",
+    "trackerBounds": {
+      "bottomLeft": [
+        41.948975070868885,
+        -87.70789144035324
+      ],
+      "topRight": [
+        41.96978396763202,
+        -87.62592574844861
+      ]
+    },
+    "color": "#87b8c6",
+    "mapHeight": "550px",
+    "stops": [
+      {
+        "name": "Horner Park",
+        "subtitle": "NE Corner - 2650 W Montrose Ave",
+        "time": "06:30am",
+        "icon": "/images/start-button.png",
+        "coordinates": [
+          41.961273,
+          -87.695301
+        ],
+        "markerClass": "rotate-minus-65"
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961277,
+          -87.695087
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961282,
+          -87.694361
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961286,
+          -87.693693
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961287,
+          -87.693567
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961288,
+          -87.693476
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961291,
+          -87.692959
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961291,
+          -87.692882
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961294,
+          -87.692453
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961295,
+          -87.692357
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961295,
+          -87.692247
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961297,
+          -87.692018
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961297,
+          -87.691959
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961298,
+          -87.691798
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961299,
+          -87.691702
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961301,
+          -87.691239
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961302,
+          -87.691121
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961303,
+          -87.691026
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961306,
+          -87.690588
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961309,
+          -87.69017
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961311,
+          -87.689903
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961315,
+          -87.689297
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961315,
+          -87.689191
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961317,
+          -87.688978
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961318,
+          -87.688854
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961319,
+          -87.688686
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961322,
+          -87.688523
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961328,
+          -87.688275
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96133,
+          -87.688091
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961339,
+          -87.687458
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961357,
+          -87.686249
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961358,
+          -87.686146
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961374,
+          -87.68506
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961383,
+          -87.684444
+        ],
+        "markerClass": ""
+      },
+      {
+        "name": "Lincoln Ave.",
+        "time": "06:34am",
+        "coordinates": [
+          41.96137703911145,
+          -87.68382230146462
+        ],
+        "markerClass": "rotate-minus-65"
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961402,
+          -87.683125
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961416,
+          -87.682206
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961427,
+          -87.681398
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96143,
+          -87.681225
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961439,
+          -87.680587
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96145,
+          -87.679796
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961453,
+          -87.679598
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961455,
+          -87.679444
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961457,
+          -87.67934
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961461,
+          -87.678962
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961465,
+          -87.678608
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961469,
+          -87.678233
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961477,
+          -87.677502
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961486,
+          -87.676753
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961495,
+          -87.676016
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961505,
+          -87.675313
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961506,
+          -87.675234
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961517,
+          -87.674511
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961526,
+          -87.673964
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961527,
+          -87.673851
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961536,
+          -87.673212
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961545,
+          -87.67255
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961547,
+          -87.672411
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961549,
+          -87.67229
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961559,
+          -87.671627
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961568,
+          -87.670973
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96157,
+          -87.670845
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961571,
+          -87.670709
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961581,
+          -87.670058
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961586,
+          -87.669686
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961589,
+          -87.669432
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961591,
+          -87.669293
+        ],
+        "markerClass": ""
+      },
+      {
+        "name": "Ashland Ave.",
+        "time": "06:42am",
+        "coordinates": [
+          41.96158561391323,
+          -87.66918263697417
+        ],
+        "markerClass": "rotate-minus-65"
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961594,
+          -87.66908
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961597,
+          -87.668869
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961603,
+          -87.668493
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961612,
+          -87.667841
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961613,
+          -87.667732
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961615,
+          -87.667606
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961621,
+          -87.667168
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961624,
+          -87.666942
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961631,
+          -87.666464
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961637,
+          -87.66608
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961638,
+          -87.665949
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96164,
+          -87.665819
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961645,
+          -87.665452
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961645,
+          -87.665424
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96165,
+          -87.665047
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961652,
+          -87.664931
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961653,
+          -87.664843
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961664,
+          -87.663988
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961665,
+          -87.663921
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96167,
+          -87.663543
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96167,
+          -87.663523
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961677,
+          -87.663017
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961683,
+          -87.662527
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961683,
+          -87.662508
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961687,
+          -87.662175
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961688,
+          -87.662149
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961695,
+          -87.661635
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961702,
+          -87.661075
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961703,
+          -87.660966
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961705,
+          -87.660864
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961712,
+          -87.660295
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96172,
+          -87.65969
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961721,
+          -87.659578
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961723,
+          -87.659478
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961729,
+          -87.658952
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96174,
+          -87.658141
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961741,
+          -87.658034
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961742,
+          -87.657966
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961749,
+          -87.657429
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961754,
+          -87.657052
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961756,
+          -87.656844
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961762,
+          -87.656348
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961764,
+          -87.656079
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961765,
+          -87.655907
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961768,
+          -87.65563
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961769,
+          -87.655495
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961771,
+          -87.655296
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961772,
+          -87.655148
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961773,
+          -87.654981
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961773,
+          -87.654968
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961774,
+          -87.654865
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961775,
+          -87.654748
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961776,
+          -87.654619
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961779,
+          -87.654386
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961786,
+          -87.653676
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961786,
+          -87.653655
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961796,
+          -87.652738
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961799,
+          -87.652437
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.9618,
+          -87.65234
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961802,
+          -87.652231
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961811,
+          -87.651572
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961816,
+          -87.651212
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961827,
+          -87.650718
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961841,
+          -87.650027
+        ],
+        "markerClass": ""
+      },
+      {
+        "name": "Clarendon Ave.",
+        "time": "06:49am",
+        "coordinates": [
+          41.96184653896688,
+          -87.64993041007156
+        ],
+        "markerClass": "rotate-minus-65"
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961845,
+          -87.649816
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961855,
+          -87.64926
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961871,
+          -87.648439
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961888,
+          -87.647519
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961896,
+          -87.647108
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.9619,
+          -87.646881
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.961925,
+          -87.646701
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962086,
+          -87.645534
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962289,
+          -87.643913
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962351,
+          -87.643368
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962472,
+          -87.642438
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962497,
+          -87.642243
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962786,
+          -87.639836
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962822,
+          -87.639641
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962919,
+          -87.639328
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.963056,
+          -87.639056
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.963164,
+          -87.638903
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.963341,
+          -87.638723
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.963673,
+          -87.638546
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.963628,
+          -87.638305
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.963594,
+          -87.638124
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.963233,
+          -87.636201
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.963146,
+          -87.63576
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962999,
+          -87.635411
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962792,
+          -87.635152
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962553,
+          -87.634978
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962504,
+          -87.634954
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962469,
+          -87.634938
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962433,
+          -87.634924
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.96242,
+          -87.634919
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962388,
+          -87.634911
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962335,
+          -87.634898
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962321,
+          -87.634896
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.962075,
+          -87.634892
+        ],
+        "markerClass": ""
+      },
+      {
+        "name": "Montrose Point",
+        "subtitle": "200 W Montrose Harbor Dr",
+        "time": "06:54am",
+        "icon": "/images/finish-icon.png",
+        "coordinates": [
+          41.961929,
+          -87.634948
+        ],
+        "markerClass": "rotate-minus-65"
+      }
+    ]
+  },
+  "fmfc": {
+    "title": "Friday Morning Fish Club",
+    "runInfo1": "Join us as we ride to the lake to go for a swim, drink coffee, fish??, and hang out together.",
+    "runInfo2": "Friday Morning Fish Club will roll from Cafe Jumping Bean.",
+    "headerImageAlt": "Brought to you by Bike Grid Now!",
+    "trackerBounds": {
+      "bottomLeft": [
+        41.82580407663174,
+        -87.68188937126713
+      ],
+      "topRight": [
+        41.873158109228456,
+        -87.5701652628314
+      ]
+    },
+    "color": "#87b8c6",
+    "mapHeight": "550px",
+    "stops": [
+      {
+        "name": "Cafe Jumping Bean",
+        "subtitle": "1439 W 18th St",
+        "time": "06:15am - 06:30am",
+        "icon": "/images/start-button.png",
+        "coordinates": [
+          41.85762,
+          -87.662756
+        ],
+        "markerClass": "rotate-minus-65"
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857471,
+          -87.662753
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857472,
+          -87.662678
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857782,
+          -87.662687
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857859,
+          -87.662689
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85786,
+          -87.662631
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857861,
+          -87.662565
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857862,
+          -87.662469
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857872,
+          -87.661852
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857879,
+          -87.661429
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857881,
+          -87.66131
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857883,
+          -87.661146
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857885,
+          -87.660996
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85789,
+          -87.660687
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857895,
+          -87.660368
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857908,
+          -87.659476
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857916,
+          -87.658985
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857918,
+          -87.658872
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857919,
+          -87.65878
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857927,
+          -87.658266
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857935,
+          -87.657757
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857936,
+          -87.657651
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857938,
+          -87.65755
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857945,
+          -87.657042
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857953,
+          -87.656535
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857955,
+          -87.656431
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857956,
+          -87.656323
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857963,
+          -87.655908
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857964,
+          -87.655835
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857966,
+          -87.655705
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857971,
+          -87.655371
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857977,
+          -87.654955
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857979,
+          -87.654845
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85798,
+          -87.654759
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857987,
+          -87.654323
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857992,
+          -87.65398
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857996,
+          -87.653738
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858001,
+          -87.653384
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858002,
+          -87.653303
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858004,
+          -87.653211
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858005,
+          -87.653121
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85801,
+          -87.652774
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858012,
+          -87.6527
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858018,
+          -87.652299
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858019,
+          -87.652191
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858021,
+          -87.652095
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858027,
+          -87.651671
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858029,
+          -87.651566
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85803,
+          -87.651471
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858039,
+          -87.650884
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858041,
+          -87.650786
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85805,
+          -87.650193
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858054,
+          -87.649947
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858062,
+          -87.64942
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858071,
+          -87.648808
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858072,
+          -87.648737
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858077,
+          -87.648382
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858079,
+          -87.648283
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85808,
+          -87.648206
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858087,
+          -87.647765
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858089,
+          -87.647616
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858089,
+          -87.647603
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858091,
+          -87.647524
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858096,
+          -87.647164
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.8581,
+          -87.646763
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858102,
+          -87.646649
+        ],
+        "markerClass": ""
+      },
+      {
+        "coordinates": [
+          41.85792145440518,
+          -87.64664855879839
+        ],
+        "name": "S Halsted St",
+        "time": "06:35am",
+        "markerClass": "rotate-minus-65"
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857959,
+          -87.646645
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857733,
+          -87.646638
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857542,
+          -87.646633
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857543,
+          -87.646536
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85755,
+          -87.646129
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85756,
+          -87.645604
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857573,
+          -87.644884
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857575,
+          -87.644794
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857577,
+          -87.644692
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857591,
+          -87.643867
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857593,
+          -87.64377
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857594,
+          -87.643714
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857596,
+          -87.643581
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857604,
+          -87.642946
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857605,
+          -87.64287
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857605,
+          -87.642797
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85761,
+          -87.642379
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857615,
+          -87.641974
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857616,
+          -87.641863
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857617,
+          -87.641766
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857624,
+          -87.641157
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857627,
+          -87.640878
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857631,
+          -87.64073
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857639,
+          -87.64045
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85764,
+          -87.640386
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857652,
+          -87.639955
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857653,
+          -87.639862
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857659,
+          -87.639539
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857666,
+          -87.639078
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857669,
+          -87.638934
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857671,
+          -87.638802
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857678,
+          -87.638409
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857687,
+          -87.637869
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857689,
+          -87.63776
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857699,
+          -87.637231
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857731,
+          -87.635505
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857728,
+          -87.634911
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857727,
+          -87.63485
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857742,
+          -87.633029
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857758,
+          -87.632002
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85776,
+          -87.63188
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857761,
+          -87.631762
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857762,
+          -87.631549
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857766,
+          -87.631005
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857771,
+          -87.630363
+        ],
+        "markerClass": ""
+      },
+      {
+        "name": "S Clark St",
+        "time": "06:40am",
+        "markerClass": "rotate-minus-65",
+        "coordinates": [
+          41.857748371747064,
+          -87.6301895008098
+        ]
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857771,
+          -87.630236
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857774,
+          -87.630098
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857779,
+          -87.629808
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85778,
+          -87.629736
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857785,
+          -87.629471
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857798,
+          -87.628734
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857808,
+          -87.62816
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857826,
+          -87.627383
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857829,
+          -87.6273
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857832,
+          -87.627146
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857834,
+          -87.627035
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857848,
+          -87.626294
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857849,
+          -87.626252
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85785,
+          -87.626174
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857857,
+          -87.625774
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85786,
+          -87.625623
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857863,
+          -87.625457
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857876,
+          -87.624775
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857882,
+          -87.62441
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857888,
+          -87.624087
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857891,
+          -87.623921
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857893,
+          -87.623792
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857899,
+          -87.623155
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857906,
+          -87.622507
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857907,
+          -87.62241
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857909,
+          -87.62226
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857909,
+          -87.622168
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857915,
+          -87.621595
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857928,
+          -87.620878
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857931,
+          -87.620756
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857932,
+          -87.620657
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857939,
+          -87.620057
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857939,
+          -87.620031
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857933,
+          -87.619771
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857897,
+          -87.619671
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857775,
+          -87.619545
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857742,
+          -87.619532
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857557,
+          -87.619454
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857584,
+          -87.619344
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857512,
+          -87.619313
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857757,
+          -87.618349
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857533,
+          -87.618209
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857553,
+          -87.618134
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857672,
+          -87.618197
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858227,
+          -87.618519
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858253,
+          -87.61844
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857947,
+          -87.618271
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857987,
+          -87.6181
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858018,
+          -87.617965
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858065,
+          -87.617771
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858553,
+          -87.617953
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859035,
+          -87.617952
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859131,
+          -87.617951
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859198,
+          -87.617832
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859186,
+          -87.617714
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859175,
+          -87.617621
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859347,
+          -87.616951
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859472,
+          -87.616886
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859878,
+          -87.616769
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860004,
+          -87.616697
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860139,
+          -87.616549
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860173,
+          -87.616417
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860188,
+          -87.616209
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860206,
+          -87.61546
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860188,
+          -87.615241
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860075,
+          -87.614863
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860164,
+          -87.61475
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860191,
+          -87.614657
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860194,
+          -87.614638
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860264,
+          -87.614087
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860282,
+          -87.614017
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860283,
+          -87.61395
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860283,
+          -87.61389
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860284,
+          -87.613816
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860284,
+          -87.613816
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.86028,
+          -87.613734
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860297,
+          -87.613663
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860304,
+          -87.613639
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860307,
+          -87.613445
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.860307,
+          -87.613396
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859915,
+          -87.61341
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859828,
+          -87.613399
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.859422,
+          -87.613348
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858914,
+          -87.613382
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858743,
+          -87.613354
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858641,
+          -87.613337
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858375,
+          -87.61327
+        ],
+        "markerClass": ""
+      },
+      {
+        "name": "18th St & Lake Front Trail",
+        "time": "06:46am",
+        "coordinates": [
+          41.85845212883875,
+          -87.61327766823018
+        ],
+        "markerClass": "rotate-minus-25 push-down-2x label-right"
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.858201,
+          -87.61328
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85794,
+          -87.613342
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857585,
+          -87.613456
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857516,
+          -87.613478
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857271,
+          -87.613503
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.857056,
+          -87.613465
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.856717,
+          -87.613347
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.856555,
+          -87.613291
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.856363,
+          -87.613174
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.856191,
+          -87.613003
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.855843,
+          -87.61275
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.855676,
+          -87.612546
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.855422,
+          -87.612127
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85528,
+          -87.611893
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.855135,
+          -87.6117
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.854956,
+          -87.611526
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.853971,
+          -87.611217
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.8533,
+          -87.611006
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.852837,
+          -87.610809
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.85271,
+          -87.610752
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.852335,
+          -87.61058
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.851512,
+          -87.610022
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.851269,
+          -87.609869
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.851115,
+          -87.609772
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.850697,
+          -87.609623
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.850354,
+          -87.609583
+        ],
+        "markerClass": ""
+      },
+      {
+        "name": "McCormick Place Bird Sanctuary",
+        "time": "06:50am",
+        "coordinates": [
+          41.84988349236678,
+          -87.6096529948448
+        ],
+        "markerClass": "label-right rotate-minus-25 push-down-2x"
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.849803,
+          -87.609605
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.849421,
+          -87.609662
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.848646,
+          -87.609944
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.84846,
+          -87.60999
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.848216,
+          -87.609966
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.847922,
+          -87.609837
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.846837,
+          -87.609483
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.846721,
+          -87.609488
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.846561,
+          -87.609548
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.845979,
+          -87.609874
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.845866,
+          -87.609893
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.845712,
+          -87.609869
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.845566,
+          -87.609863
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.845335,
+          -87.609855
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.844811,
+          -87.60991
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.84455,
+          -87.609896
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.844337,
+          -87.609841
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.843813,
+          -87.60953
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.843367,
+          -87.609489
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.843086,
+          -87.60943
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.84279,
+          -87.60924
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.842277,
+          -87.609
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.841984,
+          -87.608835
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.841867,
+          -87.608785
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.841073,
+          -87.608449
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.839971,
+          -87.607688
+        ],
+        "markerClass": ""
+      },
+      {
+        "waypointOnly": "true",
+        "coordinates": [
+          41.839536,
+          -87.607473
+        ],
+        "markerClass": ""
+      },
+      {
+        "name": "31st Street Beach",
+        "subtitle": "3100 S Lake Shore Dr",
+        "time": "07:00am",
+        "icon": "/images/finish-icon.png",
+        "coordinates": [
+          41.839363,
+          -87.607344
+        ],
+        "markerClass": "rotate-minus-25 label-right push-down-2x"
+      }
+    ]
+  }
+}

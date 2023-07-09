@@ -1,0 +1,30 @@
+{
+  "name": "chicago-group-rides",
+  "version": "0.1.1",
+  "description": "A simple Node app to broadcast current location of Bike Buses and Group Rides",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.6.0",
+    "handlebars": "^4.7.7",
+    "@fastify/formbody": "^7.2.0",
+    "@fastify/static": "^6.5.0",
+    "@fastify/view": "^7.1.0",
+    "node-persist": "^3.1.0",
+    "nano-cache": "^1.1.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://github.com/brandonmcfadd/chicago-group-rides"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

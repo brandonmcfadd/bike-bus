@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-41YX6VG9S7"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || []; function
+      gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config',
+      'G-QY4PS9JLGH');
+    </script>
+    <!-- End Google tag (gtag.js) -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta property="og:updated_time" content="1686368955">
+    <meta property="og:title" content="Live Tracking - {{title}}">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="{{busRunInfo1}} {{busRunInfo2}}">
+    <meta property="og:image" content="https://i.imgur.com/SF8NZmO.jpg">
+    <meta property="og:image:alt" content="An image with a white background and a bike drawn in the color black.">
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:site" content="@bsmcfadden">
+    <meta property="twitter:creator" content="@bsmcfadden">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ffffff">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+ 
+    <title>{{title}} Bike Bus Tracker</title> 
+    
+    <style>
+          body {
+              background-color:white;
+              font-family: sans-serif, helvetica, arial;
+              width: 100%;
+          }
+      
+          h1 {
+            text-align: center;
+            width: 100%;
+          }
+      
+          h2 {
+             text-align: center;
+             width: 100%;
+          }
+      
+          h3 {
+             text-align: center;
+             width: 100%;
+          }
+          
+          h2#info {
+            font-size:.8em;
+            text-align: center;
+          }
+          div#map {
+              height: {{mapHeight}};
+              width: 100%;
+              background-color:black;
+          }
+      body { background-color:black; font-family: sans-serif, helvetica, arial; color:white; font-size:px; } 
+      h2 { margin-left: auto; margin-right: auto;
+      width:400px; max-width:100%; color:white } 
+      a.bus-link-txt { display:inline-block;
+      color: white; } 
+      a.femmes-and-themmes { background-color: #B3DDF2; } 
+      a.critical-mass { background-color: #eb8334; }
+      a.earth1 {background-color: lightgreen; max-width:300px;} 
+      a.earth2 {background-color: lightblue; max-width:300px;} 
+      img.preview { width: 50%; float:left; }
+      img.bus-link-img { width:100%; } 
+      @media (max-width: 500px) { img.preview {width: 100% !important; } } 
+          
+          .marker-container {
+            display: flex;
+            width: 300px;
+            line-height: 1.0;
+          }
+                    
+          
+          /* Markers */
+          
+          .marker-box {
+            flex: 1;
+            display: flex;
+            justify-content: left;
+            font-size: 1em;
+            color:black;
+          }
+          
+          .marker-box-center {
+              flex-grow: 0;
+          }
+          
+          div.marker-box-center > img {
+            width: 20px !important;
+          }
+          .marker-box:first-child > div {             
+            margin-left: auto; 
+            margin-right: 1em;
+          }
+          
+          .marker-box:last-child  > div { 
+            margin-right: auto;  
+            margin-left: 1em;
+          }
+          
+          /* non-essential */
+          .marker-box {
+            align-items: center;
+            /* border: 1px solid #ccc;
+            /* background-color: lightgreen; */
+            height: 40px;
+          }
+      
+          /* Marker Modifiers */
+          .marker-container.rotate-35 {
+            transform: rotate(35deg);
+          }
+          .marker-container.rotate-25 {
+            transform: rotate(25deg);
+          }        
+          .marker-container.rotate-65 {
+            transform: rotate(65deg);
+          }
+          .marker-container.rotate-90 {
+            transform: rotate(-90deg);
+          }
+          .marker-container.rotate-minus-35 {
+            transform: rotate(-35deg);
+          }
+          .marker-container.rotate-minus-25 {
+            transform: rotate(-25deg);
+          }
+                    
+          .marker-container.rotate-minus-65 {
+            transform: rotate(-65deg);
+          }
+          .marker-container.rotate-minus-90 {
+            transform: rotate(-90deg);
+          }
+          .marker-container.push-up-2x .marker-box:not(.marker-box-center) {
+            margin-top: -10px;
+          }
+      
+          .marker-container.push-up-4x .marker-box:not(.marker-box-center) {
+            margin-top: -20px;
+          }
+          .marker-container.push-up-6x .marker-box:not(.marker-box-center) {
+            margin-top: -30px;
+          }
+      
+          .marker-container.push-up-8x .marker-box:not(.marker-box-center) {
+            margin-top: -40px;
+          }
+      
+          .marker-container.push-down .marker-box:not(.marker-box-center) {
+            padding-top: 5px;
+          }
+          
+          .marker-container.push-down-2x .marker-box:not(.marker-box-center) {
+            padding-top: 10px;
+          }
+          
+          .marker-container.push-down-4x .marker-box:not(.marker-box-center) {
+            padding-top: 20px;
+          }
+      
+          .marker-container.push-down-6x .marker-box:not(.marker-box-center) {
+            padding-top: 30px;
+          }
+          
+          .marker-container.label-left-1 {
+            /* background-color: blue; */
+          }
+          
+            .marker-container.label-left-1 .marker-box:last-child {
+              position:relative;
+              left: -165px;
+              top: 1.5em;
+              text-align:right;
+            }
+            
+            .marker-container.label-left-1 .marker-box:last-child > div {
+              margin-right: 0.5em;
+              margin-left: auto;
+            }
+          .marker-container.label-left-2 {
+            /* background-color: blue; */
+          }
+          
+            .marker-container.label-left-2 .marker-box:last-child {
+              position:relative;
+              left: -165px;
+              top: 2em;
+              text-align:right;
+            }
+            
+            .marker-container.label-left-2 .marker-box:last-child > div {
+              margin-right: 0.5em;
+              margin-left: auto;
+            }
+      
+        
+          .marker-container.label-right .marker-box:first-child {
+            /* background-color: rgba(255, 0, 0, 0.264); */
+            position:relative;
+            left: 160px;
+            top: -1.6em;
+          }    
+          
+            .marker-container.label-right .marker-box:first-child > div {
+              margin-right: auto;
+              margin-left: 1em;
+            }       
+      
+          .leaflet-bar a {
+            opacity: .25;
+          }
+          .marker-container.label-right-2 {
+            /* background-color: blue; */
+          }
+          
+            .marker-container.label-right-2 .marker-box:first-child {
+              position:relative;
+              left: 80px;
+              top: -1.5em;
+              text-align:right;
+            }
+            
+            .marker-container.label-right-2 .marker-box:last-child > div {
+              margin-right: -1em;
+              margin-left: auto;
+            }
+          .button {
+            background-color:white;
+            border: none;
+            color: black;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+
+          .button1 {background-color: #4CAF50;} /* Green */
+          .button2 {background-color: #008CBA;} /* Blue */
+      </style>
+
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+         integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+         crossorigin=""/>
+
+     <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+        integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+        crossorigin=""></script>
+    
+  </head>
+  <body>
+        <!-- This is the start of content for our page -->
+        <h1>
+          {{#if busHeaderImageSrc}}
+          <img alt="{{busHeaderImageAlt}}" src="{{busHeaderImageSrc}}" />
+          {{else}}
+            {{title}}
+          {{/if}}
+        </h1>
+        <h3>
+            {{subtitle}}
+        </h3>
+        <div id="map"></div>
+        <h3 id="info" text-align: center;>
+          {{busRunInfo1}}<br>{{busRunInfo2}}
+        </h3>
+    <p align="center">
+      Track routes live on this page at their scheduled times.<br>If it's ride time and the bike isn't showing or moving - try refreshing your device!
+      <br><br><a href="/" class="button" style="border-radius: 15px">Return Home</a>
+    </p>
+    <h1>
+          {{#if busFooterImageSrc}}
+          <img alt="{{busFooterImageAlt}}" src="{{busFooterImageSrc}}" />
+          {{else}}
+            {{busFooterImageAlt}}
+          {{/if}}
+        </h1>
+        <!-- stop markers -->
+        {{#each stops}}
+          {{#unless this.waypointOnly}}
+          <div id="stop-marker-{{@index}}" class="marker-container {{../globalMarkerClass}} {{this.markerClass}}">
+             <div class="marker-box">
+               <div><b>{{this.time}}</b></div>
+               
+             </div>
+             <div class="marker-box marker-box-center">
+               {{#if this.icon}}
+               <img src="{{this.icon}}" />
+               {{else}}
+               <img src="/images/bus_stop_circle.svg" />
+               {{/if}}
+             </div>
+             <div class="marker-box">
+               <div>
+                 <b>{{this.name}}</b> 
+                 {{#if this.subtitle}}
+                 <br />
+                 <span>{{this.subtitle}}</span>
+                 {{/if}}
+               </div>
+             </div>
+          </div>
+          {{/unless}}
+        {{/each}}
+        <!-- update_map.js -->
+        <script>
+            trackBusLocation()
+            
+            function trackBusLocation()
+            {
+              getBusLocation();
+              setTimeout(function() {
+                trackBusLocation();
+              }, 10000);
+            }
+          
+            function updateMap(lat, long)
+            {
+                addBusPositionMarker(lat, long);
+            }
+        
+          
+            function getBusLocation()
+            {
+              fetch('/bus/{{route}}/location', {
+                method: 'GET', // or 'PUT'
+              })
+                .then((response) => response.json())
+                .then((data) => {
+                  console.log('Success:', data)
+                  updateMap(data.latitude, data.longitude)
+                })
+                .catch((error) => {
+                  console.error('Error:', error)
+                })
+            }
+            
+            
+        </script>
+        <!-- map.js -->
+        <script>
+          const routeBounds = [
+                [{{busTrackerBounds.bottomLeft}}], //bottom left
+                [{{busTrackerBounds.topRight}}] //top right
+            ];
+
+            var map = L.map('map', {
+            }).fitBounds(routeBounds);
+            L.tileLayer(
+            'https://api.mapbox.com/styles/v1/streicherd/cl9p4eshq002q15s1n9ga158e/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoic3RyZWljaGVyZCIsImEiOiJjbDkxZ2JuaDQxMXRpM25vNmRjdzNlZXVzIn0.BkniqpkfdbK_szBJGdr0KQ', {
+                tileSize: 512,
+                zoomOffset: -1
+            }).addTo(map);          
+          
+            var busPositionMarker;
+            var busPositionIcon = L.icon({
+              iconUrl: '/images/bike-icon.png', 
+              iconSize: [30, 30],})
+            function addBusPositionMarker(latitude, longitude) {
+              if (busPositionMarker) 
+              {
+                map.removeLayer(busPositionMarker)
+              }
+              busPositionMarker = L.marker([latitude, longitude], {icon: busPositionIcon}).addTo(map);
+              if (latitude != 0){
+                map.flyTo([latitude, longitude], 15);
+              } else {
+                map.fitBounds(routeBounds);
+              }
+            }
+            
+            /* Stops */
+            const stops = {{toJSON stops}}
+                        
+            stops.forEach((stop, index) => {
+              if(!stop.waypointOnly) {
+                const element = document.getElementById('stop-marker-'+index);
+                addStopMarker(map, stop.coordinates[0], stop.coordinates[1], element);
+              }
+            })
+            
+            let routePolylinePoints = stops.map(stop => stop.coordinates);
+            L.polyline(routePolylinePoints, {
+              color: '{{color}}',
+              weight: 10,
+            }).addTo(map);
+            
+            function addStopMarker(map, latitude, longitude, element)
+            {              
+                
+                let testIcon = L.divIcon({
+                  className: '', //just need to override the default class
+                  html: element,
+                  iconAnchor: [150, 20]
+                })  
+                
+                let stopMarker = L.marker([latitude, longitude], { icon: testIcon }); 
+                
+                stopMarker.addTo(map);                                                
+            }
+            
+            
+            function drawRouteBetweenPoints(a, b)
+            {
+              console.log([a, b]);
+              L.polyline([a, b]).addTo(map);
+            }
+        </script>
+  </body>
+</html>
+
