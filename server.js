@@ -17,7 +17,7 @@ const cache = require('nano-cache');
 // Setup our static files
 fastify.register(require("@fastify/static"), {
   root: path.join(__dirname, "public"),
-  prefix: "/", // optional: default '/'
+  prefix: "/",
 });
 
 // View is a templating manager for fastify
@@ -39,7 +39,6 @@ const routes = require("./routes.json");
 
 fastify.get("/", async function (request, reply) {  
   const params = { }
-  // The Handlebars code will be able to access the parameter values and build them into the page
   return reply.view("/src/pages/index.hbs");
 });
 
@@ -67,7 +66,6 @@ fastify.get("/route/:route", async function (request, reply) {
       
   await storage.init();
 
-  // params is an object we'll pass to our handlebars template
   let params = { 
     ctu: bus.ctu || false,
     route: route,
@@ -90,8 +88,6 @@ fastify.get("/route/:route", async function (request, reply) {
 
 fastify.get("/beacon-instructions", async function (request, reply) {  
   const params = { }
-
-  // The Handlebars code will be able to access the parameter values and build them into the page
   return reply.view("/src/pages/tracker-instructions.hbs", params);
 });
 
