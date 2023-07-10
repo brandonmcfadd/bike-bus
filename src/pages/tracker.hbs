@@ -381,7 +381,7 @@
               }
               busPositionMarker = L.marker([latitude, longitude], {icon: busPositionIcon}).addTo(map);
               if (latitude != 0){
-                map.flyTo([latitude, longitude], 15);
+                map.flyTo([latitude, longitude], 14);
               } else {
                 map.fitBounds(routeBounds);
               }
