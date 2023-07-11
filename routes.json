@@ -846,7 +846,7 @@
   },
   "north-halsted": {
     "title": "North Halsted Bike Bus Tracker",
-    "runInfo1": "The North Halsted Bike Bus runs every Wednesday morning. Roll at 7:20am from Ridman's Coffee or 7:30 am at Elevate Coffee. Roll out at 7:45 am.",
+    "runInfo1": "The North Halsted Bike Bus runs every Wednesday morning. Meet at 7:20am at Ridman's Coffee (roll ~7:30am) or 7:30am at Elevate Coffee. Roll out at 7:45am from Elevate!",
     "headerImageAlt": "The Halsted Bike Bus. Brought to you by CHICAGO, BIKE GRID NOW!",
     "trackerBounds": {
       "bottomLeft": [
