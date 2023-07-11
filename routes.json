@@ -850,17 +850,62 @@
     "headerImageAlt": "The Halsted Bike Bus. Brought to you by CHICAGO, BIKE GRID NOW!",
     "trackerBounds": {
       "bottomLeft": [
-        41.883148,
-        -87.647396
+        41.882831995269925, -87.66785431869386
       ],
       "topRight": [
-        41.943228,
-        -87.631674
+        41.97006241894699, -87.6457100011778
       ]
     },
     "color": "#FBE40F",
-    "mapHeight": "538px",
+    "mapHeight": "550px",
     "stops": [
+      {
+        "name": "Ridman's Coffee",
+        "subtitle": "4758 N Clark St",
+        "time": "7:20",
+        "icon": "/images/coffee_stop.svg",
+        "coordinates": [
+          41.968915125815435,
+          -87.66757565797077
+        ],
+        "markerClass":"label-left-1 push-up-2x"
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.96904207358159,
+          -87.65964055960114
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.968742072759156,
+          -87.6595849052924
+        ]
+      },
+      {
+        "name": "Montrose Ave.",
+        "time": "7:24",
+        "coordinates": [
+          41.96178861935835,
+          -87.6552135603545
+        ]
+      },
+      {
+        "name": "Irving Park Rd.",
+        "time": "7:27",
+        "coordinates": [
+          41.954550899146916, -87.65056549957053
+        ]
+      },
+      {
+        "waypointOnly": true,
+        "coordinates": [
+          41.95344022166848,
+          -87.6498108864189
+        ]
+      },
       {
         "name": "Elevate Coffee",
         "subtitle": "3344 N Halsted St",
@@ -887,8 +932,7 @@
         "coordinates": [
           41.936386,
           -87.649141
-        ],
-        "markerClass": ""
+        ]
       },
       {
         "name": "Diversey",
@@ -1456,10 +1500,12 @@
     "runInfo1": "The South Halsted Bike Bus runs every Wednesday morning. Meet at 7:40 am at Cafe Jumping Bean. Roll out at 7:55 am.",
     "trackerBounds": {
       "bottomLeft": [
-        41.84910870546306, -87.66806464877914
+        41.84910870546306,
+        -87.66806464877914
       ],
       "topRight": [
-        41.88880042803343, -87.63501983645125
+        41.88880042803343,
+        -87.63501983645125
       ]
     },
     "mapHeight": "378px",
@@ -1604,10 +1650,12 @@
     "runInfo1": "The South Halsted Bike Bus runs every Wednesday morning. Meet at 7:40 am at Cafe Jumping Bean. Roll out at 7:55 am.",
     "trackerBounds": {
       "bottomLeft": [
-        41.85160214757895, -87.66806464877914
+        41.85160214757895,
+        -87.66806464877914
       ],
       "topRight": [
-        41.88675572413094, -87.63768058757375
+        41.88675572413094,
+        -87.63768058757375
       ]
     },
     "mapHeight": "378px",
